@@ -1,6 +1,6 @@
 # Welcome to Crazy Golden Pineapple! 🍍✨
 
-Hi there! I'm **Yosef Pasha**, an aspiring game developer and founder of **Crazy Golden Pineapple**—a game studio dedicated to crafting creative, fun, and unforgettable gaming experiences.
+Hi there! I'm **Yosef Pasha**, an aspiring game developer and founder of **Crazy Golden Apple**—a game studio dedicated to crafting creative, fun, and unforgettable gaming experiences.
 
 ## About Me 🌟
 - 🎮 **Game Developer**: Specializing in **Godot engine**, **C# programming**, and charming **pixel art** created in **Aseprite**.  
