@@ -14,7 +14,7 @@ To build games that feel like a cozy escape, full of adventure, whimsy, and a to
 - **Engine**: Godot
 - **Art**: Aseprite  
 - **Code**: C#
-- **Organization**: Google tools  
+- **Organization**: Obsidian, Google Toolkit
 
 ---
 
